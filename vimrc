@@ -321,3 +321,6 @@ let g:tagbar_autofocus = 1
 
 " --- PowerLine
 " let g:Powerline_symbols = 'fancy' " require fontpatcher
+
+set number
+
