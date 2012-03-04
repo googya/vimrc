@@ -124,6 +124,13 @@ PLUGINS
 
   Useful commands:    
     `F7` toggles the TagBar
+    
+* [Vim-Buffergator](https://github.com/jeetsukumaran/vim-buffergator): Buffergator is a plugin for listing, navigating between, and selecting buffers to edit.
+	
+  Useful commands:	
+   `,b` show all buffers in another window, all commands like NerdTree. 
+		
+
 
 Language specific supports
 --------------------------
