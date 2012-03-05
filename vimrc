@@ -197,6 +197,12 @@ cmap cd. lcd %:p:h
    inoremap <C-u>5 <esc>yypVr^A
 "}
 
+" shortcut for :NERDTree
+nmap <Leader>n :NERDTree<CR>
+
+" Shortcut for :TagBar
+nmap <Leader>s :TagbarOpen<CR>
+
 "--------------------------------------------------------------------------- 
 " PROGRAMMING SHORTCUTS
 "--------------------------------------------------------------------------- 
@@ -323,4 +329,3 @@ let g:tagbar_autofocus = 1
 " let g:Powerline_symbols = 'fancy' " require fontpatcher
 
 set number
-
