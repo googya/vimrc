@@ -129,6 +129,8 @@ PLUGINS
 	
   Useful commands:	
    `,b` show all buffers in another window, all commands like NerdTree. 
+   
+* [vim-slime](https://github.com/jpalardy/vim-slime.git): A vim plugin to give you some slime. (Emacs)
 		
 
 
