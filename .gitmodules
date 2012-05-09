@@ -79,3 +79,9 @@
 [submodule "bundle/vim-slime"]
 	path = bundle/vim-slime
 	url = git://github.com/jpalardy/vim-slime.git
+[submodule "bundle/vim-repeat"]
+	path = bundle/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "bundle/slim"]
+	path = bundle/slim
+	url = https://github.com/bbommarito/vim-slim.git
