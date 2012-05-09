@@ -131,6 +131,8 @@ PLUGINS
    `,b` show all buffers in another window, all commands like NerdTree. 
    
 * [vim-slime](https://github.com/jpalardy/vim-slime.git): A vim plugin to give you some slime. (Emacs)
+
+* [vim-slim](https://github.com/bbommarito/vim-slim.git):  A vim plugin for Slim template engine 
 		
 
 
