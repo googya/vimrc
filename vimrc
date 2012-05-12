@@ -37,7 +37,7 @@ syntax on		" syntax highlight
 set hlsearch		" search highlighting
 
 if has("gui_running")	" GUI color and font settings
-  set guifont=Osaka-Mono:h20
+  set guifont=Monaco:h15
   set background=dark 
   set t_Co=256          " 256 color mode
   set cursorline        " highlight current line
@@ -329,3 +329,4 @@ let g:tagbar_autofocus = 1
 " let g:Powerline_symbols = 'fancy' " require fontpatcher
 
 set number
+imap jj <Esc>
