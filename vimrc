@@ -7,6 +7,7 @@
 
 " For pathogen.vim: auto load all plugins in .vim/bundle
 
+
 let g:pathogen_disabled = []
 if !has('gui_running')
    call add(g:pathogen_disabled, 'powerline')
@@ -37,7 +38,11 @@ syntax on		" syntax highlight
 set hlsearch		" search highlighting
 
 if has("gui_running")	" GUI color and font settings
+<<<<<<< HEAD
   set guifont=Monaco:h15
+=======
+  set guifont=Monaco:h16
+>>>>>>> d973aea48a46a5fe469447b1bf221dc155290371
   set background=dark 
   set t_Co=256          " 256 color mode
   set cursorline        " highlight current line
@@ -329,4 +334,8 @@ let g:tagbar_autofocus = 1
 " let g:Powerline_symbols = 'fancy' " require fontpatcher
 
 set number
+<<<<<<< HEAD
 imap jj <Esc>
+=======
+:imap jj <ESC>
+>>>>>>> d973aea48a46a5fe469447b1bf221dc155290371
