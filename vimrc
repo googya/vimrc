@@ -333,12 +333,9 @@ set number
 :imap jj <ESC>
 :imap <leader>l <C-o>A
 :imap <leader>o <C-o>o
-<<<<<<< HEAD
-=======
 " za 关闭,zo打开
 " set foldmethod=indent 
 
 " setting tmux for vim
 let g:slime_target = "screen"
 
->>>>>>> d0f83e6d2ed86c352fa26f6d2157381b2b32e755
