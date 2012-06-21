@@ -133,6 +133,11 @@ PLUGINS
 * [vim-slime](https://github.com/jpalardy/vim-slime.git): A vim plugin to give you some slime. (Emacs)
 
 * [vim-slim](https://github.com/bbommarito/vim-slim.git):  A vim plugin for Slim template engine 
+* [vim-rvm](https://github.com/tpope/vim-rvm.git):  Switch Ruby versions from inside Vim
+
+	Useful commands:
+		`:Rvm use default`
+
 		
 
 
