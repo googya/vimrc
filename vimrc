@@ -331,3 +331,5 @@ let g:tagbar_autofocus = 1
 
 set number
 :imap jj <ESC>
+:imap <leader>l <C-o>A
+:imap <leader>o <C-o>o
