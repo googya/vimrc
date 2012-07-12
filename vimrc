@@ -339,5 +339,12 @@ set number
 " setting tmux for vim
 let g:slime_target = "screen"
 
-"set t_te= t_ti=
-"au VimLeave * :!clear
+" set t_te= t_ti=
+" au VimLeave * :!clear
+
+" minibufexpl.vim
+" let g:miniBufExplMapWindowNavVim = 1
+" let g:miniBufExplMapWindowNavArrows = 1
+" let g:miniBufExplMapCTabSwitchBuffs = 1
+
+
