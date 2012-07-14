@@ -343,8 +343,8 @@ let g:slime_target = "screen"
 " au VimLeave * :!clear
 
 " minibufexpl.vim
-" let g:miniBufExplMapWindowNavVim = 1
-" let g:miniBufExplMapWindowNavArrows = 1
-" let g:miniBufExplMapCTabSwitchBuffs = 1
+"  let g:miniBufExplMapWindowNavVim = 1
+"  let g:miniBufExplMapWindowNavArrows = 1
+"  let g:miniBufExplMapCTabSwitchBuffs = 1
 
 
