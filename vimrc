@@ -333,6 +333,7 @@ set number
 :imap jj <ESC>
 :imap <leader>l <C-o>A
 :imap <leader>o <C-o>o
+:imap <leader>O <C-o>O
 " za 关闭,zo打开
 " set foldmethod=indent 
 
