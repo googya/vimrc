@@ -347,5 +347,7 @@ let g:slime_target = "screen"
 "  let g:miniBufExplMapWindowNavVim = 1
 "  let g:miniBufExplMapWindowNavArrows = 1
 "  let g:miniBufExplMapCTabSwitchBuffs = 1
+"  enable auto-complete JavaScript syntaxes
+:set omnifunc=javascriptcomplete#CompleteJS
 
 
