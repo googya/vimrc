@@ -347,6 +347,7 @@ let g:slime_target = "screen"
 "  let g:miniBufExplMapWindowNavVim = 1
 "  let g:miniBufExplMapWindowNavArrows = 1
 "  let g:miniBufExplMapCTabSwitchBuffs = 1
-"  enable auto-complete JavaScript syntaxes
-autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
 
+"  enable auto-complete JavaScript syntaxes, shortcut is C-x then C-o
+autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
+autocmd FIleType css set omnifunc=csscomplete#CompleteCSS
