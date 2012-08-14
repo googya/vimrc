@@ -103,3 +103,9 @@
 [submodule "bundle/vim-conque"]
 	path = bundle/vim-conque
 	url = git://github.com/rson/vim-conque.git
+[submodule "bundle/vim-jade"]
+	path = bundle/vim-jade
+	url = git://github.com/digitaltoad/vim-jade.git
+[submodule "bundle/vimClojure"]
+	path = bundle/vimClojure
+	url = git://github.com/vim-scripts/VimClojure.git
