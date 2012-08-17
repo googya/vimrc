@@ -137,6 +137,13 @@ PLUGINS
 
 	Useful commands:
 		`:Rvm use default`
+		
+* [vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides.git):  A Vim plugin for visually displaying indent levels in code
+	
+	            
+	The default mapping to toggle the plugin is `<Leader>`ig
+	
+	`:help indent-guides`
 
 		
 
