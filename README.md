@@ -146,6 +146,11 @@ PLUGINS
 	`:help indent-guides`
 
 		
+* [Nerdcomment](https://github.com/nathanaelkane/vim-indent-guides.git):  A Vim plugin for comment code, like Ruby or Java... To look more detail using :help nerdcommenter! 	
+	            
+	The default mapping to toggle the plugin is `<Leader>`ig
+	
+	`:help indent-guides`
 
 
 Language specific supports
