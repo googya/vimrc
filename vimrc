@@ -43,6 +43,7 @@ if has("gui_running")	" GUI color and font settings
   set t_Co=256          " 256 color mode
   set cursorline        " highlight current line
   colors moria
+  colorscheme solarized
   highlight CursorLine          guibg=#003853 ctermbg=24  gui=none cterm=none
 else
 " terminal color settings
