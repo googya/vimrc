@@ -156,6 +156,9 @@ PLUGINS
 	`:help NerdCommenter`
 
 
+* [vim-rails](https://github.com/tpope/vim-raitls.git):  rails.vim: Ruby on Rails power tools  	
+	            
+
 Language specific supports
 --------------------------
 
