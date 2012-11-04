@@ -352,3 +352,6 @@ let g:slime_target = "screen"
 "  enable auto-complete JavaScript syntaxes, shortcut is C-x then C-o
 autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
 autocmd FIleType css set omnifunc=csscomplete#CompleteCSS
+
+" enable highlight for *.ru file
+au BufRead,BufNewFile *.ru setfiletype ruby

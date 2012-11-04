@@ -124,3 +124,6 @@
 [submodule "bundle/vim-rails"]
 	path = bundle/vim-rails
 	url = https://github.com/tpope/vim-rails.git
+[submodule "bundle/thor.vim"]
+	path = bundle/thor.vim
+	url = https://github.com/jc00ke/thor.vim.git
