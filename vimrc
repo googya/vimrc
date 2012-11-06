@@ -355,3 +355,7 @@ autocmd FIleType css set omnifunc=csscomplete#CompleteCSS
 
 " enable highlight for *.ru file
 au BufRead,BufNewFile *.ru setfiletype ruby
+
+" setting rvm bash vim 
+set shell=/bin/zsh
+
