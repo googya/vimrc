@@ -127,3 +127,6 @@
 [submodule "bundle/thor.vim"]
 	path = bundle/thor.vim
 	url = https://github.com/jc00ke/thor.vim.git
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
