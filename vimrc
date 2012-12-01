@@ -359,3 +359,7 @@ au BufRead,BufNewFile *.ru setfiletype ruby
 
 " Macvim zsh and rvm rubies
 set shell=/bin/sh
+
+" Clojure setting
+let g:vimclojure#HighlightBuiltins = 1
+let g:vimclojure#ParenRainbow = 1
