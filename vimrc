@@ -339,7 +339,7 @@ set number
 " set foldmethod=indent 
 
 " setting tmux for vim
-let g:slime_target = "screen"
+let g:slime_target = "tmux"
 
 " set t_te= t_ti=
 " au VimLeave * :!clear
