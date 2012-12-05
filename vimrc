@@ -332,7 +332,8 @@ let g:tagbar_autofocus = 1
 
 set number
 :imap jj <ESC>
-:imap <leader>l <C-o>A
+:imap <leader>e <C-o>A
+:imap <leader>a <C-o>I
 :imap <leader>o <C-o>o
 :imap <leader>O <C-o>O
 " za 关闭,zo打开
@@ -363,3 +364,4 @@ set shell=/bin/sh
 " Clojure setting
 let g:vimclojure#HighlightBuiltins = 1
 let g:vimclojure#ParenRainbow = 1
+autocmd FileType lisp,clojure let b:AutoClosePairs = AutoClose#DefaultPairsModified("", "'")
