@@ -365,6 +365,8 @@ set shell=/bin/sh
 let g:vimclojure#HighlightBuiltins = 1
 let g:vimclojure#ParenRainbow = 1
 autocmd FileType lisp,clojure let b:AutoClosePairs = AutoClose#DefaultPairsModified("", "'")
+autocmd FileType lisp,clojure let b:AutoClosePairs = AutoClose#DefaultPairsModified("", "`")
+
 
 " javascript complete plugin
 let g:node_usejscomplete = 1
