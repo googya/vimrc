@@ -158,6 +158,8 @@ PLUGINS
 
 * [vim-rails](https://github.com/tpope/vim-raitls.git):  rails.vim: Ruby on Rails power tools  	
 	            
+* [syntastic](https://github.com/scrooloose/syntastic.git):  Syntax checking hacks for vim
+
 
 Language specific supports
 --------------------------
