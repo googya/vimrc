@@ -372,3 +372,10 @@ autocmd FileType lisp,clojure let b:AutoClosePairs = AutoClose#DefaultPairsModif
 let g:node_usejscomplete = 1
 let g:jscomplete_use = 1
 " let g:neocomplcache_enable_at_startup = 1
+"
+"
+" setting haddock_browser for haskell
+au BufEnter *.hs compiler ghc
+let g:haddock_browser = "open"
+let g:haddock_browser_callformat = "%s %s"
+let g:ghc = "/usr/local/bin/ghc"
