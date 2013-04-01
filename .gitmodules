@@ -142,3 +142,6 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/slim"]
+	path = bundle/slim
+	url = https://github.com/slim-template/slim.git
