@@ -145,3 +145,6 @@
 [submodule "bundle/slim"]
 	path = bundle/slim
 	url = https://github.com/slim-template/slim.git
+[submodule "bundle/dwm.vim"]
+	path = bundle/dwm.vim
+	url = https://github.com/spolu/dwm.vim.git
