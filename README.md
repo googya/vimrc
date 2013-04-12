@@ -161,6 +161,9 @@ PLUGINS
 * [syntastic](https://github.com/scrooloose/syntastic.git):  Syntax checking hacks for vim
 
 
+* [dwm](https://github.com/spolu/dwm.vim.git):  Tiled Window Management for Vim
+
+
 Language specific supports
 --------------------------
 
